@@ -1,11 +1,8 @@
 # AM-FM-Radio
-# Project Title
-
-Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This Program is a simulation for radio that uses AM FM frequencies. The user will be provided by a menu which he/she can choose tthe 
 
 ## Getting Started
 
